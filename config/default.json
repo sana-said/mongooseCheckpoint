@@ -1,0 +1,3 @@
+{
+    "MONGOURI" : "mongodb+srv://sana:Sana1986@persondb.cuman.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
